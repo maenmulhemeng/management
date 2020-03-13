@@ -1,2 +1,2 @@
 # management
-This is project to test the management features of Git Hub
+This is a project to test the management features of Git Hub
